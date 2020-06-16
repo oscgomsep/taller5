@@ -1,0 +1,42 @@
+
+/* ejemplo de uso de clase */
+.box{
+    background-color: #6b83b4;
+    margin: 20px;
+    padding: 20px;
+    color: #ffffff;
+    width: 90%;
+}
+.box2{
+    background-color: #9ea6af;
+    margin: 50px;
+    padding: 20px;
+    color: #080808;
+    width: 60%;   
+}
+/* uso de margin extracorto y de padding */
+#cap1{
+    background-color: rgb(67, 82, 165);
+    color:#ffffff;
+    margin: 50px;
+    padding: 40px;
+
+}
+/* uso de margin corto y de padding */
+#cap2{
+    background-color: rgb(67, 82, 165);
+    color:#ffffff;
+    margin: 20px 50px 10px 50px;
+    padding: 40px;    
+}
+#cap3{
+    background-color: rgb(67, 82, 165);
+    color:#ffffff;
+    margin: 20px 50px 10px 50px;
+    padding: 40px;    
+}
+
+/* uso del estilo por tipo de titulo */
+h2{
+    text-align: center;
+}
